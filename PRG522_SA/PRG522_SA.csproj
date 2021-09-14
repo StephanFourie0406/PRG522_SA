@@ -249,7 +249,7 @@
     <Content Include="Content\fonts\fontawesome-webfont.ttf" />
     <Content Include="Content\fonts\fontawesome-webfont.woff" />
     <Content Include="Content\fonts\fontawesome-webfont.woff2" />
-    <Content Include="Content\MIT License.md" />
+    <Content Include="Content\License\MIT License.md" />
     <Content Include="Content\Login.cshtml" />
     <Content Include="Content\Register.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
